@@ -28,7 +28,7 @@ A simple and classic **Snake Game** built using **HTML**, **CSS**, and **JavaScr
 ### ▶️ Option 1: Play Online (GitHub Pages)
 
 > Visit the live game here 
-> [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
+> (https://shiv12-432.github.io/SnakeGame/)
 
 
 
